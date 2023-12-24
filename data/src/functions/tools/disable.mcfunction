@@ -19,7 +19,7 @@ scoreboard objectives remove bp.tmp_
 scoreboard objectives remove back
 scoreboard objectives remove auto_back
 
-# kill entity with only tag: ptf
+# kill entity with only tag: bp
 kill @e[tag=bp, type=#src:__string]
 
 
